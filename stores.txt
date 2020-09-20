@@ -1,0 +1,2 @@
+# ID / STORE_NAME / ADDRESS_ID
+1 NaMaline 1

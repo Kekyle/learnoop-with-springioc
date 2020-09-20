@@ -1,0 +1,8 @@
+file.authors=authors.txt
+file.books=books.txt
+file.addresses=addresses.txt
+file.stores=stores.txt
+file.users=users.txt
+file.role=role.txt
+file.orders=orders.txt
+file.status=status.txt
